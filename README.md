@@ -6,7 +6,7 @@ I am a beginner learning how to create a new repository in github with few secti
 
 -[Webpage](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
-## Ordered List
+## Applying for Master's in USA
 
 1. Take the qualifying exams (GRE,SAT.TOEFL)
 
