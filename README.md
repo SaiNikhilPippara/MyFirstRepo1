@@ -5,6 +5,7 @@ This is my first github repository.
 I am a beginner learning how to create a new repository in github with few sections,lists,links and images.
 
 -[Webpage](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+-[Source](https://en.wikipedia.org/wiki/History_of_computer_science)
 
 ## Applying for Master's in USA
 
@@ -21,7 +22,7 @@ I am a beginner learning how to create a new repository in github with few secti
 1. Welcome to USA
 
 ## A beautiful image for your pc 
-![Hosted Image](https://i.ytimg.com/vi/4NGZQqPpDMw/maxresdefault.jpg)
+![Hosted Image](https://cdn7.dissolve.com/p/D9_40_775/D9_40_775_1200.jpg)
 
 ## Thank You
 Sai Nikhil Pippara
